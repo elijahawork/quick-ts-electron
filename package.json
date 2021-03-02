@@ -1,0 +1,20 @@
+{
+  "name": "quick-ts-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/electron/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "@types/node": "^14.14.22",
+    "@types/source-map-support": "^0.5.3",
+    "electron": "^11.2.1",
+    "source-map-support": "^0.5.19"
+  }
+}
